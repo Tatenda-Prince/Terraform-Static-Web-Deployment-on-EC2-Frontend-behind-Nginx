@@ -214,7 +214,7 @@ The command should generate a success message, confirming that it is valid, as d
 
 The list of changes that Terraform is anticipated to apply to the infrastructure resources should be displayed. The “+” sign indicates what will be added, while the “-” sign indicates what will be removed.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Static-Web-Deployment-on-EC2-Frontend-behind-Nginx/blob/52e6a9c01cdaaba7d4b55db9c67b67686f5d0e82/img/Screenshot%202025-02-06%20160348.png)
 
 
 Now, let’s deploy this infrastructure! Execute the following command to apply the changes and deploy the resources.
