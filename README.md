@@ -203,7 +203,7 @@ Upon completion of the initialization process, a successful prompt will be displ
 The command should generate a success message, confirming that it is valid, as demonstrated below.
 
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Static-Web-Deployment-on-EC2-Frontend-behind-Nginx/blob/93664b7035b2de31883bd2f99eae1aad2bb18b0e/img/Screenshot%202025-02-06%20160117.png)
 
 
 5.3.Let’s now execute the following command to generate a list of all the modifications that Terraform will apply. —
