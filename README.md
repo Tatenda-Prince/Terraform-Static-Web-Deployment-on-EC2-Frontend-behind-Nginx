@@ -193,7 +193,7 @@ The script installs and configures NGINX on a server, deploys a basic static HTM
 Upon completion of the initialization process, a successful prompt will be displayed, as shown below.
 
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Static-Web-Deployment-on-EC2-Frontend-behind-Nginx/blob/3dee18dda00eb6a217c77a027890771f262b5e70/img/Screenshot%202025-02-06%20155833.png)
 
 
 5.2.Next, let’s ensure that our code does not contain any syntax errors by running the following command —
