@@ -248,7 +248,7 @@ Now, let’s verify that our resources have been created from reviewing them in 
 
 In the AWS Management Console, head to the EC2 dashboard and verify that there is one EC2 running.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Static-Web-Deployment-on-EC2-Frontend-behind-Nginx/blob/c451ece09650826e5aa5784b7f5ebe46c7ba6bbf/img/Screenshot%202025-02-06%20161103.png)
 
 
 ## Step 7 :Verify reachability to the Web server using its URL in browser
