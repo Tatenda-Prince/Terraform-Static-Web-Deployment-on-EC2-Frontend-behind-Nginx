@@ -238,7 +238,7 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 Please copy and save the application_url, which will be required to access the web page from the browser.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Static-Web-Deployment-on-EC2-Frontend-behind-Nginx/blob/08212240ed685cebe88951f715351e5f2585a7bd/img/Screenshot%202025-02-06%20160640.png)
 
 
 Now, let’s verify that our resources have been created from reviewing them in the Management Console.
