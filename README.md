@@ -256,7 +256,7 @@ In the AWS Management Console, head to the EC2 dashboard and verify that there i
 Open up your desired browser and paste the application_url  URL in your browser.
 
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Static-Web-Deployment-on-EC2-Frontend-behind-Nginx/blob/3cda4ec5893e744eda72f7bc4c068b68186f3ed9/img/Screenshot%202025-02-06%20161707.png)
 
 
 ## Congratulations!
