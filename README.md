@@ -229,7 +229,7 @@ Note — Make sure to type “yes” to agree to the changes after running this 
 Terraform will initiate the process of applying all the changes to the infrastructure. Kindly wait for a few seconds for the deployment process to complete.
 
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Terraform-Static-Web-Deployment-on-EC2-Frontend-behind-Nginx/blob/0e7b7d0babe8ed09433874b03a42320235b63743/img/Screenshot%202025-02-06%20160631.png)
 
 
 ## Success!
