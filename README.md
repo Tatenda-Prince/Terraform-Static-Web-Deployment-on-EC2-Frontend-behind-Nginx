@@ -31,12 +31,15 @@ Up The Chels Corp, an e-commerce company, needs to handle a surge in traffic dur
 
 ## Step 1: Configure AWS CLI: Set up your AWS credentials using the AWS CLI.
 
-clone this repo into your local machine and changes to the files 
+clone this repo into your local machine and changes to the files `git clone https://github.com/Tatenda-Prince/Terraform-Static-Web-Deployment-on-EC2-Frontend-behind-Nginx.git`
+
 
 1.1.Enter `aws configure` and paste your aws access and secret keys
 
 
+
 1.2.Directory Structure
+
 
 ```langauage
 terraform-project/
