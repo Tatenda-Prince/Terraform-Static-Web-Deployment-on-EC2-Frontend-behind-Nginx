@@ -31,6 +31,8 @@ Up The Chels Corp, an e-commerce company, needs to handle a surge in traffic dur
 
 ## Step 1: Configure AWS CLI: Set up your AWS credentials using the AWS CLI.
 
+clone this repo into your local machine and changes to the files 
+
 1.1.Enter `aws configure` and paste your aws access and secret keys
 
 
